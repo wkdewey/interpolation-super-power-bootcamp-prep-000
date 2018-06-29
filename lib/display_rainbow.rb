@@ -1,6 +1,6 @@
 # Write your #display_rainbow method here
 def display_rainbow(colors)
   colors.length.times do [i]
-    string+= "{colors}"
+    string+= "{colors[0].upper}"
   end
 end
