@@ -7,5 +7,5 @@ def display_rainbow(colors)
       rainbow += ", "
     end
   end
-  return rainbow
+  puts rainbow
 end
